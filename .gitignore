@@ -1,0 +1,32 @@
+## MAC OS
+.DS_Store
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+
+## NETBEANS
+nbproject
+
+## REDCAR
+.redcar
+
+## (LA)TEX
+*.aux
+*.bbl
+*.toc
+*.reqspectoc
+*.nav
+*.bak
+*.log
+*.blg
+*.out
+*.snm
